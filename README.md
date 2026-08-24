@@ -3,9 +3,9 @@
   
 </p>
 <h1 align="center">POS - Pre Open System</h1>
-<h1> **Kernel Credit:** Special thanks to **Adyasha Nanda** (`Adyasha56`) for the microkernel design.
+<h3> align="center">**Kernel Credit:** Special thanks to **Adyasha Nanda** (`Adyasha56`) for the microkernel design <h3>
 
-<p align="center">
+<p align="center"> 
   <a href="#english">English</a> | 
   <a href="#arabic">العربية</a> | 
   <a href="#french">Français</a> | 
