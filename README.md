@@ -3,6 +3,7 @@
   
 </p>
 <h1 align="center">POS - Pre Open System</h1>
+> **Kernel Credit:** Special thanks to **Adyasha Nanda** (`Adyasha56`) for the microkernel design.
 
 <p align="center">
   <a href="#english">English</a> | 
