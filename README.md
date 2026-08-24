@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="1024" height="1024" alt="Gemini_Generated_Image_b1e3dzb1e3dzb1e3" src="https://github.com/user-attachments/assets/229451a8-125d-4525-80ad-0cc0485e36cf" />
+  <img src="<img width="1024" height="1024" alt="Gemini_Generated_Image_b1e3dzb1e3dzb1e3" src="https://github.com/user-attachments/assets/a289f7de-922e-44fc-ab43-ad4e5d36410b" />
 " alt="POS Logo" width="250">
 </p>
 
