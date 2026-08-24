@@ -4,9 +4,6 @@
 </p>
 
 <h1 align="center">POS - Pre Open System</h1>
-</p>
-
-<h1 align="center">POS - Pre Open System</h1>
 
 <p align="center">
   <a href="#english">English</a> | 
