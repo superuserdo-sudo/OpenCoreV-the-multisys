@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="<img width="1024" height="1024" alt="Gemini_Generated_Image_b1e3dzb1e3dzb1e3" src="https://github.com/user-attachments/assets/a289f7de-922e-44fc-ab43-ad4e5d36410b" />
-" alt="POS Logo" width="250">
+![POS Logo](<img width="1024" height="1024" alt="poslogo" src="https://github.com/user-attachments/assets/f31de01d-10e9-47dd-ad01-09fc4dd8e687" />
+)
 </p>
 
 <h1 align="center">POS - Pre Open System</h1>
