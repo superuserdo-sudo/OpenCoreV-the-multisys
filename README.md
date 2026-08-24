@@ -1,6 +1,6 @@
 <p align="center">
   <img src"<img width="1017" height="1024" alt="photo_2026-08-24_17-42-20" src="https://github.com/user-attachments/assets/fab9de7e-46d8-4cb7-a698-07a4b51fe5a7" />
-" alt="POS Logo" width="220">
+" alt="POS Logo" width="100">
 
 </p>
 <h1 align="center">POS - Pre Open System</h1>
