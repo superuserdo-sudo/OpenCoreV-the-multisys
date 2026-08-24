@@ -1,5 +1,9 @@
-![POS Logo](<img width="1024" height="1024" alt="poslogo" src="https://github.com/user-attachments/assets/f31de01d-10e9-47dd-ad01-09fc4dd8e687" />
-)
+<p align="center">
+  <img src="<img width="1024" height="1024" alt="poslogo" src="https://github.com/user-attachments/assets/4018ea4b-fd43-4580-9062-a2a1f74dbc52" />
+" alt="POS Logo" width="220">
+</p>
+
+<h1 align="center">POS - Pre Open System</h1>
 </p>
 
 <h1 align="center">POS - Pre Open System</h1>
