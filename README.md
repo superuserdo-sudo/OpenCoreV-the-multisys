@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="<img width="1024" height="1024" alt="poslogo" src="https://github.com/user-attachments/assets/4018ea4b-fd43-4580-9062-a2a1f74dbc52" />
-" alt="POS Logo" width="220">
-</p>
+<img src="poslogo.jpg" width="200">
 
 <h1 align="center">POS - Pre Open System</h1>
 
