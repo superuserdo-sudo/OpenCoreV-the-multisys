@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/aeb09bc1-30b5-465d-8294-3cdfbbe3d691" alt="POS Logo" width="250">
   
 </p>
-<h1 align="center">POS - Pre Open System</h1>
+<h1 align="center">POS - Pre Open System(BSD)</h1>
 <h3> the kernel is "freeBSD" kernel , thx for the FreeBSD team <h3>
 
 <p align="center"> 
