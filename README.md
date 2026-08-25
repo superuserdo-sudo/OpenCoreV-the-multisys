@@ -3,7 +3,7 @@
   
 </p>
 <h1 align="center">POS - Pre Open System</h1>
-<h3> **Kernel Credit:** Special thanks to **Adyasha Nanda** (`Adyasha56`) for the microkernel design <h3>
+<h3> the kernel is "openBSD" thx for the openBSD team <h3>
 
 <p align="center"> 
   <a href="#english">English</a> | 
