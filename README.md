@@ -3,7 +3,7 @@
   
 </p>
 <h1 align="center">POS - Pre Open System</h1>
-<h3> the kernel is "openBSD" thx for the openBSD team <h3>
+<h3> the kernel is "freeBSD" kernel , thx for the FreeBSD team <h3>
 
 <p align="center"> 
   <a href="#english">English</a> | 
