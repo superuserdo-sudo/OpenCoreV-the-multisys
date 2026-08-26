@@ -1,0 +1,19 @@
+The posBSD system is designed for new users who want to 
+try BSD systems but find the rest of the family difficult. 
+posBSD was created to solve this problem with an 
+xwin graphical interface using FVWM95 
+or JWM, depending on the user's preferences and level of understanding
+
+ what does the system want to convey to you? If you're someone who prioritizes security and an open-source system, and you want a
+ready-made development environment for languages ​​like C and C++,
+as well as other programming languages ​​like Python for networking and backend development, and languages ​​for applications
+and processes like Java and Kotline for networking and applications, and PHP for backend development, then posBSD offers everything and more.
+However, if you simply want to use your computer without programming or bloatware, all you need to do is download the clean version 
+(which, by the way, includes a browser, terminal, live installer, and file manager in the live version only). 
+This frees you from the hassle of multiple operating systems. Just download the clean version of posBSD, and you're ready to go.
+
+Now, you might want to know what posBSD includes in terms of libc, WM, network manager, and more:
+The posBSD operating system includes musl libc, which is much faster and lighter than glibc, and it uses an init system called sinit, 
+one of the lightest init systems you can try. And what about the package manager? The posBSD package 
+manager is the same as the freeBSD package manager because posBSD uses the freeBSD kernel, which makes c
+ompatibility greater in terms of program recognition.
