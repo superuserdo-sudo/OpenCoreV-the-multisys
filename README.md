@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bad49c86-8ff9-40ac-8328-de30f6f0fa8b" />
-" alt="POS Logo" width="250">
+  <img src="https://github.com/user-attachments/assets/bad49c86-8ff9-40ac-8328-de30f6f0fa8b" alt="POS Logo" width="250">
   
 </p>
 <h1 align="center">POS - Pre Open System(BSD)</h1>
