@@ -1,19 +1,26 @@
-The posBSD system is designed for new users who want to 
+The OpenCoreV(BSD) system is designed for new users who want to 
 try BSD systems but find the rest of the family difficult. 
-posBSD was created to solve this problem with an 
-xwin graphical interface using FVWM95 
-or JWM, depending on the user's preferences and level of understanding
+OpenCoreV was created to solve this problem with an 
+x11/xorg graphical interface using FVWM95 
+or JWM and kde, depending on the user's preferences and level of understanding
 
  what does the system want to convey to you? If you're someone who prioritizes security and an open-source system, and you want a
 ready-made development environment for languages ​​like C and C++,
 as well as other programming languages ​​like Python for networking and backend development, and languages ​​for applications
-and processes like Java and Kotline for networking and applications, and PHP for backend development, then posBSD offers everything and more.
+and processes like Java and Kotline for networking and applications, and PHP for backend development, then OpenCoreV offers everything and more.
 However, if you simply want to use your computer without programming or bloatware, all you need to do is download the clean version 
 (which, by the way, includes a browser, terminal, live installer, and file manager in the live version only). 
-This frees you from the hassle of multiple operating systems. Just download the clean version of posBSD, and you're ready to go.
+This frees you from the hassle of multiple operating systems. Just download the clean version of OpenCoreV, and you're ready to go.
 
-Now, you might want to know what posBSD includes in terms of libc, WM, network manager, and more:
-The posBSD operating system includes musl libc, which is much faster and lighter than glibc, and it uses an init system called sinit, 
+Now, you might want to know what OpenCoreV includes in terms of libc, WM, network manager, and more:
+The OpenCoreV operating system includes musl libc, which is much faster and lighter than glibc, and it uses an init system called sinit, 
 one of the lightest init systems you can try. And what about the package manager? The posBSD package 
-manager is the same as the freeBSD package manager because posBSD uses the freeBSD kernel, which makes c
-ompatibility greater in terms of program recognition.
+manager is the same as the freeBSD package manager because OpenCoreV uses the freeBSD kernel, which makes 
+compatibility greater in terms of program recognition.
+
+The OpenCoreV(Linux) system is designed for new users who want to try a fast, independent, systemd-free Linux system without unnecessary complexity. OpenCoreV(Linux) comes in two distinct editions—an Alpine-based variant and a Debian-based variant—both powered by an x11/xorg graphical interface using FVWM95, JWM, or KDE depending on the user's preferences and level of understanding.
+
+What does the system want to convey to you? If you're someone who prioritizes security and an open-source system, and you want a ready-made development environment for languages like C and C++, as well as other programming languages like Python for networking and backend development, and languages for applications and processes like Java and Kotlin for networking and applications, and PHP for backend development, then OpenCoreV(Linux) offers everything and more. However, if you simply want to use your computer without programming or bloatware, all you need to do is download the clean version (which, by the way, includes a browser, terminal, live installer, and file manager in the live version only). This frees you from the hassle of multiple operating systems. Just download the clean version of OpenCoreV(Linux), and you're ready to go.
+
+Now, you might want to know what OpenCoreV(Linux) includes in terms of libc, WM, init system, and package manager:
+The OpenCoreV(Linux) operating system uses Dinit for process management and service initialization, along with toybox sh for standard shell commands. For standard C libraries and
