@@ -8,3 +8,6 @@
 
 <h5>OpenCoreV(gnu/linux , musl/linux) is an based "alpine pkg manager" not alpine based and debain "pkg manager based" and it use glibc on the DEB ver and musl libc in the APK
 and every thing same as the BSD ver </h5>
+
+<h5>the deb and apk ver uses openrc & busybox
+and linux kernel 7.1.12 as main kernel </h5>
