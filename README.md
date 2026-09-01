@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshot_2026-09-01_23-13-48-removebg-preview" alt="banner" width="250">
+  <img src="https://github.com/user-attachments/assets/71ebac5d-2ddb-4de1-9d70-c88f46a3e904" alt="banner" width="250">
   
 </p>
 <h1 align="center">OpenCoreV</h1>
