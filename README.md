@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6abb5c22-0324-4454-9055-11fb2dff7b59" alt="POS Logo" width="250">
+  <img src="Screenshot_2026-09-01_23-13-48-removebg-preview" src="https://github.com/user-attachments/assets/fea59351-5015-4657-984d-6facfa685529" alt="POS Logo" width="250">
   
 </p>
 <h1 align="center">OpenCoreV</h1>
