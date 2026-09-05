@@ -4,14 +4,10 @@
 </p>
 <h1 align="center">OpenCoreV</h1>
 
-<h3> there is 2 vir's of openCoreV the linux based openCoreV and freeBSD based openCoreV <h3>
-<h5>OpenCoreV(BSD) is an operating system inspired by the BSD family—specifically FreeBSD. It utilizes the FreeBSD kernel alongside the "sinit" init system and relies on musl libc instead of glibc, eschewing GNU components entirely. The system is designed to be beginner-friendly; many people struggle to install or use BSD-based systems due to the lack of a GUI(like kde), and OpenCoreV aims to solve this issue. It employs the BusyBox ash shell—a very lightweight and clean shell environment. Users are free to modify the system, provided they have the necessary files and adhere to the permissive MIT license, which allows anyone to take and modify the system with ease, requiring only that the original creator be acknowledged. I hope people will use my system in the future or at least talk about it—whether positively or negatively does not matter; my goal is simply to create a good, stable operating system.</h5>
-
-<h5>OpenCoreV(gnu/linux , musl/linux) is an based "alpine pkg manager" not alpine based and debain "pkg manager based" and it use glibc on the DEB ver and musl libc in the APK
-and every thing same as the BSD ver </h5>
-
-<h5>the deb and apk ver uses openrc & busybox
-and linux kernel 7.1.12 as main kernel </h5>
+Open CoreV is an operating system based on the Alpine Linux distribution with the C library system glibc and musl libc according to your choice, use, and interest.
+More information: OpenCore V uses an init system called openrc and another init system called sysvinit, one of the oldest and lightest init systems. It uses desktop named xfce4 and wm named openbox
+System philosophy: The system focuses on meeting the user’s requirements, what he likes, and what catches his attention, and even if you are someone who only wants to use his computer, this system also suits you, especially with xfce4, as it is one of the easiest and most beautiful desktops for UNIX systems and like UNIX.
+Note: In the future, the system will provide a version based on debain, arch, desktops, and new wm's, according to your choice and interest.
 
 # about OCV
 
